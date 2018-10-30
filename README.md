@@ -30,3 +30,4 @@ Terminal emulators
 * xterm: The grandfather of terminal emulators. [Source](http://invisible-island.net/datafiles/release/xterm.tar.gz).
 * Connectbot: Android SSH client. [Source](https://github.com/connectbot/connectbot)
 * Android Terminal Emulator: Android terminal app which Termux terminal handling is based on. Inactive. [Source](https://github.com/jackpal/Android-Terminal-Emulator).
+* BrandScanner  we use this tool for the camera [Source](https://github.com/rosaq/barcodescanner).
